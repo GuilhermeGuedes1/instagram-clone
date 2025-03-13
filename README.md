@@ -25,8 +25,8 @@ Este projeto é um clone simplificado do Instagram, criado como parte do meu cur
    cd instagram-clone
    ```
 3. Abra o arquivo `index.html` no navegador.
-   ou
-   - https://guilhermeguedes1.github.io/instagram-clone/ (Para ver corretamente no pc é necessario diminuir total a largura da sua tela como se fosse um celular)
+
+4. Ou então acesse https://guilhermeguedes1.github.io/instagram-clone/ (Para ver corretamente no pc é necessario diminuir total a largura da sua tela como se fosse um celular)  
 
 ## Próximos Passos
 - Implementar responsividade para **tablet e desktop**.

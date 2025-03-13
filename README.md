@@ -18,7 +18,7 @@ Este projeto é um clone simplificado do Instagram, criado como parte do meu cur
 ## Como Rodar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/instagram-clone.git
+   git clone https://guilhermeguedes1.github.io/instagram-clone/
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -26,7 +26,7 @@ Este projeto é um clone simplificado do Instagram, criado como parte do meu cur
    ```
 3. Abra o arquivo `index.html` no navegador.
    ou
-   https://guilhermeguedes1.github.io/instagram-clone/ (Para ver corretamente no pc é necessario diminuir total a largura da sua tela como se fosse um celular)
+   - https://guilhermeguedes1.github.io/instagram-clone/ (Para ver corretamente no pc é necessario diminuir total a largura da sua tela como se fosse um celular)
 
 ## Próximos Passos
 - Implementar responsividade para **tablet e desktop**.

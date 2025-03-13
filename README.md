@@ -38,5 +38,5 @@ Este projeto é um clone simplificado do Instagram, criado como parte do meu cur
 🚧 **Em desenvolvimento** 🚧
 
 ---
-Desenvolvido por **Chris Roc** 🎧💻
+Desenvolvido por **Guilherme Guedes** 💻
 

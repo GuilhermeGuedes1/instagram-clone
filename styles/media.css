@@ -1,0 +1,223 @@
+@media(min-width:768px) { 
+
+    body { 
+        margin-top: 80px;
+    }
+
+    header { 
+        position: fixed;
+        top: 0;
+        background-color: white;
+    }
+
+
+    nav .instagram-logo-tablet { 
+        display: block;
+        border-left: 1px solid rgba(0, 0, 0, 0.208);
+        padding-left: 4px;
+    }
+    
+    nav input {
+        display: block;
+    }
+
+    nav .icon-container { 
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    nav .icon-container .icon-nav { 
+        padding: 0px 8px;
+        display: block;
+    }
+
+    nav .icon-container .instagram-icon { 
+        font-size: 1.8rem;
+    }
+
+    nav .logo-container { 
+        display: none;
+    }
+
+    main { 
+        width: 500px;
+        margin: auto;
+    }
+
+    .story-container { 
+        margin-top: 35px;
+        border: 1px solid rgba(0, 0, 0, 0.208);
+    }
+
+    footer {
+        display: none;
+    }
+
+    .story-cont { 
+        position: relative;
+    }
+
+    .next-container { 
+        display: block;
+        position: absolute;
+        right: 14px;
+        top: 30px;
+        color: rgb(240, 227, 227);
+        cursor: pointer;
+        font-size: 2rem;
+    }
+    
+    .post-container { 
+        margin-top: 24px;
+    }
+    aside { 
+        display: none;
+    }
+
+}
+
+@media(min-width:1024px) { 
+    nav {
+        display: flex;
+        width: 935px; 
+    }
+
+    header { 
+        display: flex;
+        justify-content: center;
+    }
+
+    main { 
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+
+    .main-content {
+        display: flex;
+        flex-direction: column;
+        display:  block;
+        position: relative;
+        width: 938px; 
+        margin: auto;
+    }
+
+    aside { 
+        display: block;
+        position: fixed;
+        width: 293px;
+        top:70px;
+        right: 50px;
+        margin-top: 35px;
+      
+        
+    }
+    
+    .post-container { 
+        width: 614px;
+        
+    }
+
+    .story-cont { 
+        width: 614px;
+    }
+
+    .user-aside { 
+        display: flex;
+        align-items: center;
+        height: 100px;
+        gap: 5px;
+    }
+    .user-aside img { 
+        width: 55px;
+        height: 55px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+
+    .user-aside-name h2 { 
+        font: 200 0.9rem 'Instagram Sans', sans-serif
+    }
+
+    .user-aside-name h3 { 
+        font: 100 0.9rem 'Instagram Sans', sans-serif
+    }
+
+    .follower-suggestion { 
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .follower-suggestion p { 
+        font-weight: 100;
+        color: gray;
+        font-family: "Instagram Sans";
+    }
+    .follower-suggestion span {
+        font-weight: 900;
+        color: black;
+        
+    }
+    .user-suggestion { 
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    .user-suggestion-info { 
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        width: 100%;
+
+    }
+    .user-suggestion-info img { 
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+
+    .user-suggestion-info h2 { 
+        font: 500 1rem "Instagram Sans", sans-serif;
+    }
+
+    .user-suggestion-info h3 { 
+        font: 100 0.8rem  "Instagram Sans", sans-serif;
+        color: gray;
+    }
+    .user-suggestion a {
+        text-decoration: none;
+        font-family: "Instagram Sans";
+    }
+
+    .infos ul { 
+        display: flex;
+        flex-flow: row wrap;
+        gap: 0px 14px;
+        margin-top: 50px;
+        padding-left: 10px;
+        color: gray;
+        font-family: "Instagram Sans";
+        font-size: 0.5rem;
+    }
+
+    .infos ul li:nth-child(1){
+        list-style: none;
+    }
+
+    .copyright { 
+        margin-top: 20px;
+        font-size: 0.5rem;
+        color: gray;
+    }
+
+    @media(min-width:1280px){
+        aside { 
+            right: 180px;
+        }
+    }
+}

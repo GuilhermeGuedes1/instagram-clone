@@ -15,11 +15,17 @@
 html, body { 
     min-height: 100vh;
     padding-bottom: 30px;
+    top: auto;
     width: 100%;
     scroll-behavior: smooth;
 }
 
+body { 
+    margin-top: 0px;
+}
+
 header {
+    position: auto;
     width: 100%;
     height: 60px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.347);
@@ -32,11 +38,22 @@ header nav {
     align-items: center;
     margin: 0px 10px;
     height: 100%;
+    
 }
+
 
 nav ion-icon { 
     font-size: 1.5rem;
     cursor: pointer;
+}
+
+nav .instagram-logo-tablet { 
+    display:none
+}
+
+
+nav .icon-nav { 
+    display: none;
 
 }
 
@@ -45,6 +62,18 @@ nav img {
     cursor: pointer;
 }
 
+nav input { 
+    display: none;
+    width: 250px;
+    height: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.305);
+    text-align: center;
+    font-family: "Instagram Sans";
+    
+}
+.logo-container { 
+    margin: auto;
+}
 .story-container { 
     display: flex;
     align-items: center;
@@ -53,6 +82,7 @@ nav img {
     padding: 10px 12px;
     overflow: hidden;
     border-bottom: 1px solid rgba(0, 0, 0, 0.345);
+    
 }
 
 .story-container h2 { 
@@ -71,8 +101,18 @@ nav img {
 }
 
 .post-container { 
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 60px;
+   
+}
+.post { 
     display:flex;
     flex-direction: column;
+    width: 100%;
+    padding-bottom: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.188)
 }
 
 .tittle-container { 
@@ -183,3 +223,12 @@ footer {
     cursor: pointer;
 
 }
+
+aside { 
+    display: none;
+}
+
+.next-container { 
+    display: none;
+}
+

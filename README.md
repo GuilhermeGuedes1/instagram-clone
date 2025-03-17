@@ -39,5 +39,5 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ## 👨‍💻 Autor
 Projeto desenvolvido por **Guilherme Guedes**  
-💼 [LinkedIn]https://www.linkedin.com/in/guilherme-guedes-b109041a1/ 
-💻 [GitHub]https://github.com/GuilhermeGuedes1
+💼 https://www.linkedin.com/in/guilherme-guedes-b109041a1/ 
+💻 https://github.com/GuilhermeGuedes1

@@ -34,10 +34,11 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ## 🌐 Deploy
 
-➡️ **[[Acesse o Catstagram aqui](https://seu-usuario.github.io/seu-repositorio/)](https://guilhermeguedes1.github.io/instagram-clone/)**
+➡️ **https://guilhermeguedes1.github.io/instagram-clone/**
 
 
 ## 👨‍💻 Autor
 Projeto desenvolvido por **Guilherme Guedes**  
 💼 https://www.linkedin.com/in/guilherme-guedes-b109041a1/ 
+
 💻 https://github.com/GuilhermeGuedes1

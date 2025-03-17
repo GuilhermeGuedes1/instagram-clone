@@ -115,6 +115,10 @@ nav input {
     border: 1px solid rgba(0, 0, 0, 0.188)
 }
 
+iframe { 
+    width: 100%;
+}
+
 .tittle-container { 
     display: flex;
     justify-content: space-between;
@@ -170,6 +174,10 @@ nav input {
     cursor: pointer;
 }
 
+.interaction-container ion-icon:hover { 
+    color: rgb(78, 78, 78);
+}
+
 .like-container { 
     display: flex;
     align-items: center;
@@ -196,6 +204,96 @@ nav input {
     height: 20px;
     object-fit: cover;
     border-radius: 50%;
+}
+
+.legenda-container { 
+    display: flex;
+    margin: 10px;
+    font-family: "Instagram Sans";
+    font-weight: 900;
+
+}
+
+.legenda { 
+    font-weight: 100;
+    margin-left: 5px;
+}
+
+.legenda-user { 
+    cursor: pointer;
+}
+
+.coment-container { 
+    display: flex;
+    margin: 2px 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.emoji-like ion-icon { 
+    cursor: pointer;
+
+
+}
+
+.coment-user-container {
+    display: flex;
+    align-items: center;
+    
+}
+.coment-user span{ 
+    font-weight: 900;
+    cursor: pointer;
+}
+.coment-container{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.coment { 
+    margin-left: 5px;
+}
+
+.see-more p { 
+    margin-left: 10px;
+    color: gray;
+    cursor: pointer;
+}
+
+.input-coment { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+    width: 95%;
+    margin-bottom: 10px;
+
+}
+.input-coment input{ 
+    width: 100%;
+    padding: 5px;
+    border: 0px;
+ 
+}
+
+.input-coment button { 
+    padding: 4px;
+    background-color: #B2DFFC;
+    border: none;
+    border-radius: 3px;
+    transition: 300ms;
+    cursor: pointer;
+    text-align: right;
+}
+
+.input-coment button:hover { 
+    background-color: #0095F6;
+}
+
+.input-coment input:active{
+    border: none;
 }
 
 footer { 

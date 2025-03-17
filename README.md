@@ -1,38 +1,43 @@
-# Instagram Clone
 
-Este projeto é um clone do Instagram desenvolvido com HTML, CSS , seguindo o conceito de **Mobile First** e adicionando responsividade para **Celular, tablet e PC** usando media query.
+# 🐾 Catstagram - Clone do Instagram
 
-## Funcionalidades Implementadas
+Projeto desenvolvido como prática de **HTML** e **CSS**, recriando a interface do Instagram com um toque pessoal: **os protagonistas são meus gatos**! 😻🐈
 
-- **Layout responsivo**: Adaptado para dispositivos móveis, tablets e desktops.
-- **Campo de pesquisa**: Input funcional para busca dentro da interface.
-- **Aside fixo**: Seção lateral fixa com sugestões de novos seguidores.
+## 🚀 Funcionalidades
+- ✅ Layout 100% responsivo (Mobile, Tablet e Desktop)
+- ✅ Barra de stories com fotos de outros gatos
+- ✅ Feed com **posts de imagens e vídeo**
+- ✅ Campo de input para novos comentários
+- ✅ Botão "Publicar"
+  ✅ Área que exibe os comentários adicionados
+  ✅ Opção para abrir mais comentários
 
-## Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
+- HTML5
+- CSS3 (Flexbox e Media Queries)
 
-- **HTML5**
-- **CSS3** (Flexbox e Grid para organização)
+## 📱 Responsividade
+O projeto foi desenvolvido com a abordagem **Mobile First**, garantindo uma ótima visualização em smartphones, tablets e computadores.
 
-## Como Rodar o Projeto
+## 🐱 Tema e Contexto
+O Catstagram é um projeto pessoal onde utilizei fotos reais dos meus gatos em momentos especiais. Além disso, os ícones dos stories foram personalizados com fotos de outros gatos.
 
+## 🎥 Extras Adicionados
+- Post com vídeo
+
+## 📂 Como Rodar o Projeto
 1. Clone o repositório:
-   ```sh
-   git clone https://guilhermeguedes1.github.io/instagram-clone/
-   ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd instagram
-   ```
-3. Abra o arquivo `index.html` no navegador.
+```
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+2. Abra o arquivo `index.html` no navegador de sua preferência.
 
-4. Ou acesse https://guilhermeguedes1.github.io/instagram-clone/
+## 🌐 Deploy
 
-## Próximas Melhorias
+➡️ **[[Acesse o Catstagram aqui](https://seu-usuario.github.io/seu-repositorio/)](https://guilhermeguedes1.github.io/instagram-clone/)**
 
-- Implementação de um **input de comentário** com um botão de envio ao lado.
-- Adicionar alguns comentários visíveis nas postagens.
-- Fazer com que um dos posts seja um vídeo.
 
----
-Desenvolvido por Guilherme Guedes https://www.linkedin.com/in/guilherme-guedes-b109041a1/ 💻
-
+## 👨‍💻 Autor
+Projeto desenvolvido por **Guilherme Guedes**  
+💼 [LinkedIn]https://www.linkedin.com/in/guilherme-guedes-b109041a1/ 
+💻 [GitHub]https://github.com/GuilhermeGuedes1

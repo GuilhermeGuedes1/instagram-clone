@@ -1,42 +1,38 @@
 # Instagram Clone
 
-## Sobre o Projeto
-Este projeto é um clone simplificado do Instagram, criado como parte do meu curso de desenvolvimento web. O foco é praticar conceitos de **HTML, CSS e responsividade**, seguindo a abordagem **mobile first**.
+Este projeto é um clone do Instagram desenvolvido com HTML, CSS , seguindo o conceito de **Mobile First** e adicionando responsividade para **Celular, tablet e PC** usando media query.
 
-## Funcionalidades
-- Layout mobile já implementado.
-- Responsividade para **tablet e desktop** (em andamento).
-- **Campo de pesquisa** para encontrar perfis.
-- **Sidebar** com sugestões de novos seguidores.
-- Atualização das fotos de usuários.
+## Funcionalidades Implementadas
+
+- **Layout responsivo**: Adaptado para dispositivos móveis, tablets e desktops.
+- **Campo de pesquisa**: Input funcional para busca dentro da interface.
+- **Aside fixo**: Seção lateral fixa com sugestões de novos seguidores.
 
 ## Tecnologias Utilizadas
+
 - **HTML5**
-- **CSS3** (Flexbox, Grid e Media Queries)
-- **JavaScript** (futuramente, para interação dinâmica)
+- **CSS3** (Flexbox e Grid para organização)
 
 ## Como Rodar o Projeto
+
 1. Clone o repositório:
-   ```bash
+   ```sh
    git clone https://guilhermeguedes1.github.io/instagram-clone/
    ```
 2. Acesse a pasta do projeto:
-   ```bash
-   cd instagram-clone
+   ```sh
+   cd instagram
    ```
 3. Abra o arquivo `index.html` no navegador.
 
-4. Ou então acesse https://guilhermeguedes1.github.io/instagram-clone/ (Para ver corretamente no pc é necessario diminuir total a largura da sua tela como se fosse um celular)  
+4. Ou acesse https://guilhermeguedes1.github.io/instagram-clone/
 
-## Próximos Passos
-- Implementar responsividade para **tablet e desktop**.
-- Criar **campo de pesquisa** funcional.
-- Adicionar **sidebar** com sugestões dinâmicas.
-- Substituir imagens dos usuários por fotos atualizadas.
+## Próximas Melhorias
 
-## Status do Projeto
-🚧 **Em desenvolvimento** 🚧
+- Implementação de um **input de comentário** com um botão de envio ao lado.
+- Adicionar alguns comentários visíveis nas postagens.
+- Fazer com que um dos posts seja um vídeo.
 
 ---
-Desenvolvido por **Guilherme Guedes** 💻
+Desenvolvido por Guilherme Guedes https://www.linkedin.com/in/guilherme-guedes-b109041a1/ 💻
 

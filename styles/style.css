@@ -71,6 +71,7 @@ nav input {
     font-family: "Instagram Sans";
     
 }
+
 .logo-container { 
     margin: auto;
 }
@@ -80,7 +81,7 @@ nav input {
     gap: 18px;
     width: 100%;
     padding: 10px 12px;
-    overflow: hidden;
+    overflow-y: scroll;
     border-bottom: 1px solid rgba(0, 0, 0, 0.345);
     
 }

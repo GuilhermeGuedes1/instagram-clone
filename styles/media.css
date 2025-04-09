@@ -1,11 +1,9 @@
 @media(min-width:768px) { 
 
-    body { 
-        margin-top: 80px;
-    }
+   
 
     header { 
-        position: fixed;
+       
         top: 0;
         background-color: white;
     }
